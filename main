@@ -15,7 +15,7 @@ function windows:Create(options)
     local GameName = options.Game
     game.StarterGui:SetCore("SendNotification", {
         Title = title,
-        Text = "Welcome To "..title..""..game.Players.LocalPlayer.DisplayName.." AKA "..game.Players.LocalPlayer.Name.."!",
+        Text = "Welcome To "..title..""..game.Players.LocalPlayer.DisplayName.."!",
         Duration = 5,
         Logo = "rbxassetid://7072724538",
     })

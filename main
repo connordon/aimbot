@@ -60,7 +60,7 @@ function windows:Create(options)
 
     newPage.Name = "newPage"
     newPage.Parent = allPages
-    newPage.BackgroundColor3 = Color3.fromRGB(32, 32, 32)
+    newPage.BackgroundColor3 = Color3.fromRGB(87, 87, 199)
     newPage.ClipsDescendants = true
     newPage.Position = UDim2.new(0.012, 0,0.026, 0)
     newPage.Size = UDim2.new(0, 582, 0, 237)

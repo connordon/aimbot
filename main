@@ -115,7 +115,7 @@ function windows:Create(options)
 
     backFrame.Name = "backFrame"
     backFrame.Parent = LunaLibrary
-    backFrame.BackgroundColor3 = Color3.fromRGB(32, 32, 32)
+    backFrame.BackgroundColor3 = Color3.fromRGB(97, 49, 60)
     backFrame.ClipsDescendants = false
     backFrame.Position = UDim2.new(0.314547002, 0, 0.306092143, 0)
     backFrame.Size = UDim2.new(0, 610, 0, 318)
@@ -126,7 +126,7 @@ function windows:Create(options)
 
     allPages.Name = "allPages"
     allPages.Parent = backFrame
-    allPages.BackgroundColor3 = Color3.fromRGB(40, 40, 40)
+    allPages.BackgroundColor3 = Color3.fromRGB(97, 49, 60)
     allPages.ClipsDescendants = true
     allPages.Position = UDim2.new(0.0109783234, 0, 0.191451475, 0)
     allPages.Size = UDim2.new(0, 596, 0, 249)

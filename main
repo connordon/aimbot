@@ -519,7 +519,7 @@ function windows:Create(options)
         Title_2.Font = Enum.Font.GothamBold
         Title_2.Text = title
         Title_2.TextTransparency = 0.63
-        Title_2.TextColor3 = Color3.fromRGB(255, 255, 255)
+        Title_2.TextColor3 = Color3.fromRGB(97, 49, 60)
         Title_2.TextSize = 11.000
         Title_2.TextXAlignment = Enum.TextXAlignment.Left
 
